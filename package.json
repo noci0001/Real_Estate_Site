@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@babel/eslint-parser": "^7.5.4",
     "@chakra-ui/react": "^2.2.1",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "axios": "^0.27.2",
-    "@babel/eslint-parser": "^7.5.4",
     "framer-motion": "^6.3.10",
     "millify": "^4.0.0",
     "next": "^12.1.6",
@@ -24,8 +24,8 @@
     "react-icons": "^4.4.0"
   },
   "devDependencies": {
-    "@next/eslint-plugin-next": "^12.1.6",
     "@babel/eslint-parser": "^7.5.4",
+    "@next/eslint-plugin-next": "^12.1.6",
     "eslint": "8.17.0",
     "eslint-config-next": "12.1.6"
   }
